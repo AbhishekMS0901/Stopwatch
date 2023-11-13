@@ -30,7 +30,7 @@
 - **Open the Application** - User need to visit to the downloaded project directory and open the index.html file in browser.
 
 ## Usage:
-   ![homepage](image-1.png)
+   ![image](https://github.com/AbhishekMS0901/Stopwatch/assets/57981785/68b83014-7c62-4541-931a-baa20550b57e)
 
    - **Start the Stopwatch** - To start the stopwatch, user needs to click on the start button.
    - **Stop the Stopwatch** - To stop the stopwatch, user has to click on the stop button of the stopwatch.
