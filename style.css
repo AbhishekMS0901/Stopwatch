@@ -1,0 +1,92 @@
+.product_title
+{
+  display:flex;
+  justify-content: center;
+  position:fixed;
+  top:20px;
+  color:rgb(100,30,78.1.0);
+  text-shadow: 2px 2px yellowgreen;
+  position:sticky;
+  top:50px;
+  font-size:50px;
+  font-style:italic;
+}
+body
+{
+  background-color:skyblue;
+}
+#time_display
+{
+text-align: center;
+padding-top: 100px;
+
+}
+#time
+{
+  font-size: 100px;
+  color:antiquewhite;
+}
+.time_unit
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:50px;
+  font-style:italic;
+  color:orangered;
+  margin-left:100px;
+  margin-right:100px;
+}
+#unit_hours
+{
+  margin-right:70px;
+}
+#unit_minutes
+{
+margin-right:70px;
+}
+#unit_seconds
+{
+margin-right:-10px;
+}
+.buttonStyle {
+  border-radius:100px;
+  border:0px;
+  font-family:revert-layer;
+  text-transform: uppercase;
+  line-height: 50px;
+  outline-width: 50px;
+  font-size: 25px;
+  margin:auto;
+  color: white;
+  text-shadow: 1px 1px 1px darkred;
+  background-color:green;
+  margin:200px 0px 200px 0px;
+  padding:10px 20px 10px 20px;
+  text-align:center;
+  margin-right:10px;
+}
+#button_container
+{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+
+}
+.buttonStyle:hover
+{
+  color:blue;
+}
+#stop_button
+{
+  background-color:red ;
+}
+#pause_button
+{
+  background-color: grey;
+}
+#reset_button
+{
+  background-color:brown;
+}
+
